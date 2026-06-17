@@ -1,0 +1,27 @@
+#top{
+    width:400px;
+    height:100px;
+    background-color:#74acdf;
+}
+
+#bottom{
+     width:400px;
+    height:100px;
+    background-color:#74acdf;
+}
+
+#center{
+    width:400px;
+    height:100px;
+    background-color: white;
+}
+
+#sunofmay img{
+    width:100px;
+    height:100px;
+}
+#sunofmay{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
