@@ -1,0 +1,32 @@
+#top{
+    width:400px;
+    height:100px;
+    background-color: #f93;
+}
+
+
+#bottom{
+    width:400px;
+    height:100px;
+    background-color: #138808;
+}
+
+
+
+#center{
+    width:400px;
+    height:100px;
+    background-color: #fff;
+}
+
+#ashokachakra img{
+    width:100px;
+    height:100px;
+
+}
+
+#ashokachakra{
+display:flex;
+align-items:center;
+justify-content: center;
+}
